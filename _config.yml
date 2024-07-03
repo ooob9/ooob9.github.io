@@ -28,7 +28,19 @@ exclude:
   - not-pure-poole.gemspec
 
 # Options
+twitter:
+  username: null
+  card: null
+logo: null
+social:
+  name: Songzi Vong
+  links: null
+google_site_verification: null
+lang: null
 
+sass:
+  sass_dir: _sass
+  style: :compressed
 # Replace this value and uncomment to enable Google Analytics tracking
 # google_analytics: UA-000000-0
 
