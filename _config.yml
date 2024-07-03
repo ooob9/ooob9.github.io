@@ -29,14 +29,16 @@ exclude:
 
 # Options
 twitter:
-  username: null
-  card: null
-logo: null
+  username: vszhub
+  card: summary
+logo: logo.png
 social:
   name: Songzi Vong
-  links: null
-google_site_verification: null
-lang: null
+  links:
+    - https://twitter.com/vszhub
+    - https://github.com/vszhub
+google_site_verification: xxxxx
+lang: en
 
 sass:
   sass_dir: _sass
