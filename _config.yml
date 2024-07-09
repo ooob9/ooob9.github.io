@@ -31,7 +31,7 @@ exclude:
 
 # Options
 google_site_verification: xxxxx
-lang: en
+lang: ko
 
 sass:
   sass_dir: _sass
