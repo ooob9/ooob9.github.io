@@ -55,15 +55,15 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --body-color: var(--gray-900);
-    --body-bg: var(--white);
+    --body-color: var(--gray-900); #제목 밑에 내용
+    --body-bg: var(--white); # 배경색
 
-    --heading-color: var(--gray-900);
+    --heading-color: var(--gray-900); 
 
-    --link-color: var(--gray-900);
-    --link-hover-color: var(--gray-900);
+    --link-color: var(--gray-900); # 제목
+    --link-hover-color: var(--gray-900); 
 
-    --border-color: rgba(255,255,255,.15);
+    --border-color: var(--gray-700);
 
     --code-bg: #282828;
   }
